@@ -10,12 +10,18 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif" width="280"/>
+<table><tr><td valign="top" width="70%">
 
 - 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027)
 - 💻 Passionate about **Full-Stack Development**, **Scalable Systems** & **AI**
 - 🚀 Building real-time applications & optimizing backend performance
 - 📚 Coursework: Data Structures, DBMS, Software Engineering, Operating Systems
+
+</td><td valign="middle" width="30%">
+
+<img src="https://img.itch.zone/aW1hZ2UvMTEzNTA0NS82NTc4ODU4LmdpZg==/original/GuSHJB.gif" width="250"/>
+
+</td></tr></table>
 
 ---
 
