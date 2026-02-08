@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027) — CPI: **8.16/10**
+- 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027)
 - 💻 Passionate about **Full-Stack Development**, **Scalable Systems** & **AI**
 - 🚀 Building real-time applications & optimizing backend performance
 - 📚 Coursework: Data Structures, DBMS, Software Engineering, Operating Systems
@@ -64,14 +64,7 @@
 
 ---
 
-## 📜 Certifications
-
-- **Algorithms** — Stanford Online
-- **Supervised Machine Learning: Regression & Classification** — DeepLearning.AI
-
----
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangramjeet-kumar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangramkumar590@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangramjeet@gmail.com)
