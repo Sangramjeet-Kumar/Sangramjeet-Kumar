@@ -68,3 +68,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangramjeet-kumar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangramjeet@gmail.com)
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sangramjeet-Kumar/Sangramjeet-Kumar/main/assets/black-cat.gif" width="200"/>
+
+*meow* 🐱
+
+</div>
