@@ -21,7 +21,7 @@
 
     </td>
     <td>
-      <img src="giphy.gif" width="250"/>
+      <img src="giphy.gif" width="200"/>
     </td>
   </tr>
 </table>
