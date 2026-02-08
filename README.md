@@ -10,23 +10,12 @@
 
 ### 👨‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="65%">
+<img align="right" src="https://media.tenor.com/nN4erWoujAgAAAAC/toothless-cat-cat.gif" width="200"/>
 
 - 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027)
 - 💻 Passionate about **Full-Stack Development**, **Scalable Systems** & **AI**
 - 🚀 Building real-time applications & optimizing backend performance
 - 📚 Coursework: Data Structures, DBMS, Software Engineering, Operating Systems
-
-</td>
-<td align="center" valign="center" width="35%">
-
-<img src="https://media.tenor.com/nN4erWoujAgAAAAj/toothless-cat-cat.gif" width="180"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
