@@ -10,10 +10,23 @@
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="65%">
+
 - 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027)
 - 💻 Passionate about **Full-Stack Development**, **Scalable Systems** & **AI**
 - 🚀 Building real-time applications & optimizing backend performance
 - 📚 Coursework: Data Structures, DBMS, Software Engineering, Operating Systems
+
+</td>
+<td align="center" valign="center" width="35%">
+
+<img src="https://media.tenor.com/nN4erWoujAgAAAAj/toothless-cat-cat.gif" width="180"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,12 +82,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangramjeet-kumar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksangramjeet@gmail.com)
 
----
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sangramjeet-Kumar/Sangramjeet-Kumar/main/assets/black-cat.gif" width="200"/>
-
-*meow* 🐱
-
-</div>
