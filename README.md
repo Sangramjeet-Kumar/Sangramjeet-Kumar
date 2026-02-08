@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Sangramjeet Kumar
 
-<!--
-**Sangramjeet-Kumar/Sangramjeet-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Full-Stack Development, Systems & AI  
+🚀 Building projects while learning DSA and software engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: JavaScript, C++, Python, C#
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express
+- Databases: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+- **OnGo Rentals** – Vehicle rental management system
+- **Hospital Management System** – DBMS project
+- **FullStack Cafe POS** – End-to-end POS system
+- **SprintFlow** – Agile project management tool
+
+---
+
+## 📈 GitHub Stats
