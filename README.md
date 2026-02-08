@@ -10,12 +10,21 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="giphy.gif" width="250"/>
-
+<table>
+  <tr>
+    <td>
+      
 - 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027)
 - 💻 Passionate about **Full-Stack Development**, **Scalable Systems** & **AI**
 - 🚀 Building real-time applications & optimizing backend performance
 - 📚 Coursework: Data Structures, DBMS, Software Engineering, Operating Systems
+
+    </td>
+    <td>
+      <img src="giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
