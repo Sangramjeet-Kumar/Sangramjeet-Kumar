@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="./toothless-cat.gif" width="150" style="margin-left: 20px;"/>
+<img align="right" src="toothless-cat-cat.gif" width="150"/>
 
 - 🎓 **B.Tech IT** @ **IIIT Vadodara** (2023-2027)
 - 💻 Passionate about **Full-Stack Development**, **Scalable Systems** & **AI**
